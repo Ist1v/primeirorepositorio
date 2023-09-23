@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.top{
+    height: 1000px;
+    background-color: aqua;
+   
+
+}
+.paralax
+{
+    height: 400px;
+    background-image: url(./images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bottom{
+    height: 1000px;
+    background-color: white;
+}

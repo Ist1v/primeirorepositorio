@@ -1,0 +1,12 @@
+div{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 30px;
+}
+.caixa2{
+    border: 4px dotted red;
+}
+.caixa3{
+    box-shadow: 10px 10px 10px rgb(182, 179, 179);
+}

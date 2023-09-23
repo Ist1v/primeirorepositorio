@@ -1,0 +1,17 @@
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+.fundo{
+    height: 1000px;
+    background-image: url(./images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:
+}
+.fundoCor{
+    height: 1000px;
+    background-color: red;
+}

@@ -1,0 +1,18 @@
+div{
+        
+    width: 300px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+.janela1{
+    background-color: red
+}
+.janela2{
+    background-color: green;
+}
+.janela3{
+    background-color: blue ;
+}
+
+
+
